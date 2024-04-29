@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    max-inline-size: 100%;
+    
+}
+
+body{
+    background-image: url(../_IMG/Design\ sem\ nome\ \(1\).jpg);
+    background-size: cover;
+   
+}
+
+/* card de login e cadastro */
+#perfil1{
+    display: flex;
+    margin-top: -400px;
+    background-image: -moz-linear-gradient(rgb(0, 0, 0),blue);
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: 200px;
+    box-shadow: 6px 3px 28px -6px blue;
+    
+   
+    
+}
+
+
+#perfil2{
+   
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 1100px;
+    margin-top: -400px;
+    background-image: -moz-linear-gradient(black,red);
+    box-shadow: 6px 3px 28px -6px blue;
+    position: relative;
+   
+
+}
+
+
+img{
+    height: 400px;
+    
+}
+
+#perfil1:hover,#perfil2:hover{
+    border: 10px solid blue;
+    transition: 0.5s;
+    
+    
+   
+     
+}

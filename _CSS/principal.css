@@ -1,0 +1,728 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    margin: auto;
+}
+
+body {
+ 
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    z-index: 0;
+
+   
+   
+    
+}
+
+
+
+
+
+
+
+/* cabeçalho */
+
+
+
+header {
+    position: absolute;
+    background-color: #a81515;
+    width: 100%;
+    height: 250px;
+   
+    
+}
+.rodas{
+   
+    margin-top: -60px;
+    color: black;
+    margin-left: 540px;
+}
+
+.sobre-rodas{
+    margin-left: 320px;
+    color: rgb(253, 253, 253);
+}
+#cabecalho {
+    z-index: 900;
+    margin-top:-10px;
+    height:260px;
+ margin-bottom: 100px;
+    margin-left: 20px;
+
+}
+
+#cabecalho2 {
+   z-index: 900;
+    padding-top: 10%;
+    width: 80%;
+    height:100px;
+    margin-left:210px;
+    margin-top:-66666699px;
+    z-index: -1;
+    
+  
+}
+
+/* Menu */
+
+main {
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+#viddeo {
+    width: 300%;
+    height: 1200px;
+    margin-top: -5%;
+    margin-bottom: 4%;
+}
+
+
+
+
+
+
+
+.card-menu {
+    position: absolute;
+    display: -ms-grid;
+    display: grid;
+    
+    margin-top: 800px;
+    margin-left: 20%;
+    height: 90%;
+    top: 100px;
+    width: 65%;
+    gap: 40px;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 240px;
+    
+    
+
+
+}
+
+
+
+.menu {
+
+    width: 100%;
+    margin-top: 10%;
+    height: 300px;
+    padding: 10px;
+    margin-left: -80px;
+    width: 800px;
+    border-radius: 30px;
+
+
+
+
+
+
+
+}
+
+
+.video-group {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.menu:hover {
+    transition: 0.5s;
+    box-shadow: 0px 0px 9px 9px rgb(41, 41, 41);
+    border: 5px solid rgb(41, 40, 40);
+    padding: 0;
+
+}
+
+a {
+    height: 680px;
+}
+
+/* video */
+.video {
+
+    background-color: #000000a2;
+    border-radius: 4px;
+    height: 780px;
+    width: 1000px;
+    margin-left: 22%;
+    margin-top: 100px;
+    position: absolute;
+
+
+}
+
+.video-group {
+    width: 100%;
+    height: 100%;
+}
+
+#propaganda {
+
+    margin-top: -220px;
+    margin-left: 10%;
+    width: 800px;
+    height: 480px;
+
+}
+
+#bemvindo {
+    width: 900px;
+    height: 400px;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: -110px;
+    margin-bottom: 10%;
+
+
+}
+
+.card-video {
+    background-image: url("../_IMG/pERFIL\ PROFISSIONAL\ \(3\).png");
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    margin-top: -2px;
+
+
+
+
+
+}
+
+
+/* section  */
+
+
+
+
+.explicação {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../_IMG/../_IMG/IMG-Car-test.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    margin-top: -157px;
+    margin-bottom: 2%;
+}
+
+.explicação,
+p {
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 50px;
+
+
+}
+
+
+
+.explicação,h1 {
+    color: rgb(255, 253, 253);
+    font-size: 50px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+
+
+}
+
+
+
+
+
+
+.borde {
+    word-spacing: -2px;
+    width: 460px;
+    text-align: justify;
+    margin-left: 4.4%;
+    margin-top: 150px;
+
+}
+
+.button-participe a {
+    color: white;
+}
+
+.button-participe:hover {
+    border: solid #ffffff;
+    transition: 0.6s;
+}
+
+h1 {
+    position: relative;
+    bottom: -100px;
+    left: 100px;
+    font-size: 60px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+    width: 700px;
+
+    
+
+
+}
+.ppp{
+    text-decoration: overline;
+}
+span {
+    word-spacing: -6.2px;
+}
+
+#galeria > div {
+    float: left;
+    width:240px;
+    height: 190px;
+  padding: 8px;
+    box-sizing: border-box;
+    margin-left: -9px;
+    margin-top: 60px;
+}
+
+#galeria {
+    
+   
+margin-left:900px;
+    height: 590px;
+    margin-top: -560px;
+    
+}
+
+
+#carro1{
+    height: 150px;
+}
+
+#carro2{
+    height: 150px;
+}
+
+#foto9{
+    height: 900px;
+}
+
+img {
+    height: 330px;
+    margin-left: 2px;
+    width: 530px;
+}
+
+.detalhes {
+    display: none;
+}
+
+
+.detalhes,a {
+    height: 270px;
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: -15px;
+
+}
+
+#galeria .foto:target {
+    position: fixed;
+    width: 580px;
+    height: 430px;
+    top: 50px;
+    left: 35%;
+    padding: 5px;
+    border: solid 1px #333;
+    box-shadow: 0 0 25px 10px #000;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: -9px;
+    margin-left: -60px;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+#title{
+   margin-left: -90px;
+}
+
+.foto:target .detalhes {
+    display: block;
+}
+
+
+
+
+button {
+    background-color: #ff0505;
+    color: white;
+    border: 10px solid red;
+    border-radius: 10px;
+    height: 50px;
+    width: 400px;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 90px;
+    margin-left: 14px;
+    cursor: pointer;
+
+
+}
+
+
+/* PARCEIROS */
+
+
+.card-parceiros{
+   background-color: #fff;
+}
+
+.parceiros h1{
+    margin-top: -100px;
+    margin-left: 680px;
+}
+
+.parceiros{
+    background-color: #000;
+}
+
+
+
+
+/* footer */
+
+
+
+footer {
+    background-color: rgb(167, 17, 17);
+    border-top: 8px solid black;
+    width: 100%;
+    height: 200px;
+}
+
+.redes-sociais {
+    margin-left: -120px;
+
+    margin-top: -15px;
+
+
+}
+
+.redes-sociais,
+img {
+
+    height: 44%;
+    left: 31%;
+    padding: 14px;
+
+
+}
+
+.copy {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-left: 7%;
+    padding-top: 2%;
+
+}
+
+.icone {
+    width: 60px;
+    height: 60px;
+    padding-left: 70%;
+    padding: 20px;
+    margin: 2px;
+    padding: 5px;
+}
+
+.redes {
+    margin-left: 47.5%;
+    height: 90px;
+}
+
+.icone:hover {
+    background-color: #000;
+    border-radius: 50px;
+    padding: 0;
+    transition: 0.9s;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width:390px){
+  
+
+
+
+  
+    header{
+        height: 20%;
+        margin-top: -30%;
+        
+
+        
+    }
+    
+
+    #cabecalho{
+
+    height:90%;
+    width: 60%;
+    margin-left: -12%;
+    margin-top: -2%;
+        
+
+    }
+    .rodas {
+     margin-left:32%;
+     margin-top:-41%;
+     font-size:80%;
+    width:63%;
+     left:  0%;
+     height:51%;
+     z-index: 0;
+     
+    
+     
+         
+       
+     }
+
+    .sobre-rodas{
+    margin-left: 100px;
+    word-spacing: 15%;
+    width:50%;
+     height: 1%;
+     z-index: 0;   
+        
+     }
+    
+     
+     
+     
+     #viddeo {
+
+        
+       
+       
+       
+        width: 500%;
+        
+        margin-top:-43%;
+        
+       
+        
+    }
+
+    .video-group{
+        height: 200%;
+    }
+    
+    .card-menu {
+     
+       
+      
+      
+        width:79%;
+        
+    }
+
+    .card-menu a{
+       
+        
+        top: 40%;
+        
+        width: 360%;
+        
+    }
+    
+    
+    .menu {
+        height:77%;
+        width: 90%;
+        margin-top: -68%;
+        margin-left: -39%;
+        
+       
+        
+    }
+
+    .menu a{
+        
+        width: 30%;
+       
+     }
+    
+    
+
+.card-parceiros .parceiros h1{
+   margin-left: 3px;
+   width: 10%;
+   left: 100px;
+}
+.pic{
+    margin-left: 90%;
+    height: 80%;
+    width: 500%;
+}
+
+section{
+    height: 5%;
+}
+
+.explicação {
+    margin-top: 70%;
+    
+   
+}    
+
+
+h1{
+   
+    left: 0;
+    font-size: 225%;
+    margin-left: 520%;
+    
+}
+
+#title{
+   position: absolute;
+    height: 10%;
+    left: 0px;
+    margin-left:-2%;
+    width: 520%;
+    font-size: 200%;
+    top:320px;
+    margin-top: -33%
+    
+}
+
+#propaganda{
+    margin-top: -430%;
+    height: 90%;
+}
+
+.borde{
+    margin-left: -1%;
+    font-size:130%;
+    margin-top: 83%;
+}
+
+   
+.text{
+    position: absolute;
+    margin-left: 1%;
+    font-size: 29%;
+    top:700px;
+
+   
+    
+}
+
+
+#galeria > div {
+    position: absolute;
+    height: 62%;
+    margin-left: -220%;
+    margin-top: 115%;
+}
+
+.foto{
+    height: 4%;
+}
+
+.picture{
+    height: 63%;
+}
+
+#foto1{
+    margin-left: 50%;
+}
+
+
+
+.video{
+    margin-left:7%;
+    width: 90%;
+    margin-left: 3%;
+    height: 50%;
+   
+}
+#propaganda{
+    margin-left: 5%;
+    margin-top: -80%;
+    width: 90%;
+    height: 40%;
+
+}
+
+#bemvindo{
+    margin-left: -5%;
+
+
+}
+
+
+
+.icone{
+    height: 30%;
+    width: 10%;
+    margin-left: 10%;
+}
+
+
+
+.button-participe{
+    height:1%;
+    width: 45%;
+    margin-left: 30%;
+    
+
+}
+
+
+.copy{
+    margin-left: 33%;
+    width: 100%;
+   
+}
+.icone{
+    margin-left: 54%;
+    height:55%;
+    width:50%;
+    margin-left: 40%;
+    
+    
+}
+.redes-sociais{
+    
+  
+    margin-left: -40%;
+    height: 25%;
+    width: 90%;
+}
+.redes{
+    display: flex;
+    width: 30%;
+}
+
+
+  
+}

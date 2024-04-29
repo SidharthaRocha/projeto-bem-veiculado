@@ -1,0 +1,460 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+
+
+body{
+    background-color: #000;
+
+    
+   
+}
+
+ /* primeiro grupo de opções de veiculos de off roads */
+
+.container{
+  padding: 20px;
+  width:300px;
+  
+  
+  
+ 
+ 
+}
+
+.card-group{
+    margin-right: 50px;
+    margin-left: -10px;
+    margin-top: -30px;
+
+}
+
+.card{
+    margin-right: 10px;
+        
+    
+}
+.group1{
+    margin-left: 20px;
+    padding-left: 4px;
+    background-color: rgb(255, 255, 255);
+    height:800px;
+    width: 370px;
+    border-radius: 20px;
+    box-shadow: 6px 3px 28px -6px rgba(171,75,75,1);
+   
+
+}
+
+.picture {
+    width: 374px;
+    height: 230px;
+}
+
+.group1 h1 {
+    margin-left: 7px;
+    padding-top: 25px;
+}
+
+.texto1 {
+    font-size: 22px;
+    padding-left: -8px;
+}
+
+/* descrição dos veiculos de off roads */
+
+
+#texxto{
+    margin-left: -4px;
+}
+
+
+#texto01{
+    margin-left: -70px;
+    font-size: 190px;
+}
+#texto02{
+    margin-left: -10px;
+    font-size: 140px;
+}
+#texto03{
+    margin-left:10px ;
+}
+
+#texto04{
+    margin-left: 20px;
+}
+#texto05{
+    margin-left: -90px;
+}
+#texto06{
+    margin-left:-120px ;
+}
+#titulo2{
+   margin-top: 6em;
+   
+}
+
+#texto2{
+    margin-left: -110px;
+
+}
+
+.texto1{
+    margin-left: -240px
+}
+
+#texxto{
+    margin-left: -250px;
+}
+
+
+/* segundo grupo de opções de veiculos dos off roads */
+.group2{
+    
+    
+    margin-left: 20px;
+    padding-left: 4px;
+    background-color: rgb(255, 255, 255);
+    height:800px;
+    width: 370px;
+    border-radius: 20px;
+    box-shadow: 6px 3px 28px -6px rgba(171,75,75,1);
+
+}
+
+.picture {
+    width: 374px;
+    height: 230px;
+}
+.picture2{
+    height: 26%;
+}
+
+
+.group2 img{
+    margin-left:-4px;
+}
+
+.group2 h1 {
+    margin-left: 7px;
+    padding-top: 25px;
+}
+#texxto2{
+    margin-left: -275px;
+    word-spacing: -3px;
+}
+
+#texxto3{
+    margin-left: -230px;
+    word-spacing: -3px;
+}
+#texxto4{
+    margin-left: -194px;
+    word-spacing: -3px;
+}
+
+#texto01{
+    word-spacing: -2px;
+}
+div{
+    margin-top: 20px;
+    display: flex;
+    
+    
+}
+h3{
+    position: absolute;
+    margin-top: 299px;
+    margin-left: -390px;
+    height: 50px;
+    color: red;
+    font-size: 34px;
+    
+}
+#estrelinha1{
+    position: absolute;
+    margin-top: 300px;
+   right: 1630px;
+   top: 70px;
+    height: 20px;
+   
+}
+
+#estrelinha2{
+    
+    position: absolute;
+    margin-top: 300px;
+    height: 20px;
+    right: 830px;
+
+
+}
+
+#estrelinha3{
+    
+    position: absolute;
+    margin-top: 300px;
+    height:23px;
+    right: 440px;
+
+}
+
+#estrelinha4{
+    position: absolute;
+    margin-top: 300px;
+    height: 20px;
+    right: 50px;
+
+}
+
+#estrelinha5{
+    position: absolute;
+    margin-top: 300px;
+    height: 20px;
+    right: -370px;
+
+}
+
+#estrelinha6{
+    position: absolute;
+    margin-top: 300px;
+    height: 20px;
+    right: 1220px;
+
+}
+#subtituloo{
+    background-color: aqua;
+    margin-top: 1200px;
+    font-size: 290px;
+    margin-left: -1800px;
+}
+#subtitulo2{
+    margin-left: 2px;
+}
+
+#subtitulo1{
+    margin-top: 300px;
+    margin-left: 410px
+}
+
+#subtitulo5{
+    font-size: 34px;
+    margin-left: 1580px;
+}
+#subtitulo3{
+    margin-left:-770px;
+    margin-top:300px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+    
+
+
+.avaliação1{
+    
+    margin-left:3px;
+
+    font-size: 34px;
+}
+
+#botao3{
+    margin-left: -300px;
+    margin-top:750px;
+}
+
+#card-grupo1{
+    margin-top:40px;
+}
+
+#card-grupo2{
+    margin-top:40px;
+}
+h1{
+    
+    color: red;
+    margin-top: 210px;
+    height: 20px;
+   white-space: nowrap;
+   position: relative;
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-style: normal;
+  
+    
+    
+   
+    
+    
+}
+
+.titulo{
+    word-wrap: none;
+}
+
+p{
+   position: absolute;
+    margin-top:320px;
+    margin-left: -220px;
+    width: 350px;
+    font-size:20px;
+    height: 260px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: -5px;
+    
+   word-break: keep-all;
+
+    
+}
+
+
+   
+  
+    
+
+
+.picture{
+    margin-left: -4px;
+}
+
+img{
+   
+    position: absolute;
+    border-radius: 10px;
+   
+    height: 200px;
+   
+    margin-left: 0px;
+    
+    
+  
+    
+   
+    
+    
+    
+    
+ }
+
+.group1:hover,.group2:hover{
+    border: 3px solid red;
+    transition: 0.2s;
+box-shadow: 6px 3px 28px -6px rgba(171,75,75,1);
+}
+
+button{
+    background-color: rgb(255, 5, 5);
+    color: white;
+    border: 10px solid red;
+    border-radius: 10px;
+   height: 50px;
+    width: 200px;
+    font-size: 20px;
+    margin-top:730px;
+    margin-right: 90px;
+    margin-left: -170px;
+    cursor: pointer;
+    
+}
+
+
+.botao{
+    position: relative;
+    color: rgb(253, 253, 253);
+    width: 400px;
+    margin-left: -180px;
+}
+
+#button-card{
+    margin-left: -160px;
+}
+
+.group1:target{
+    position: fixed;
+    width: 50%;
+    top: 15px;
+    left: 25%;
+    padding: 5px;
+    border: solid 1px #333;
+    box-shadow: 0 0 25px 10px #000;
+    background: #fff;
+    border-radius: 5px;
+}
+
+@media screen and (max-width:721px){
+
+    .container{
+        display: flex;
+    }
+
+    .card-group{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .card-group1{
+        display: flex;
+        flex-direction: column;
+    }
+    .card-group2{
+        display: flex;
+        flex-direction: column;
+        margin-top:4%;
+        
+        
+    }
+
+    #card-grupo1{
+        margin-top: 4%;
+
+
+    }
+    #buton{ 
+
+        margin-left:-40%;
+     }
+    #botao3{
+       position: absolute;
+        margin-left:26%;
+        margin-top: 190%;
+    
+        
+        
+        
+
+    }
+
+  
+    
+    h3{
+        margin-left:1%;
+    }
+
+    #subtitulo3{
+        margin-left:1%
+
+    }
+
+
+    #subtitulo5{
+
+        margin-left:1%
+    }
+
+    .picture2{
+        width:96%;
+        height: 32%;
+    }
+    
+
+}
